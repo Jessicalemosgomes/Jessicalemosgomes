@@ -1,7 +1,7 @@
-<img align="right" height="270" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"/>
+<img align="right" height="340" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"/>
 
  
-### Hey! 👋
+<h1 align="center">Hello, World 🚀</h1>
 
 - 😄 Pronouns: she/her.
 - 🔭 I'm a Full Stack Developer!
