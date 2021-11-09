@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: she/her.
 - 🔭 I'm a Full Stack Developer!
-- ⚡ Interests: React, JavaScript, Java, SpringBoot and SQL.
+- ⚡ Interests: React, TypeScript, Java, SpringBoot and SQL.
 - 🤓 I'm currently studying more about functional programming.
 - 💜 I love learning new things!
 - 💬 Ask me about music, literature, film and, of course, technologies.
