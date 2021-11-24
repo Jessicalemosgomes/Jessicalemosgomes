@@ -1,4 +1,4 @@
-<img align="right" height="340" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"/>
+<img align="right" height="330" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"/>
 
  
 <h1 align="center">Hello, World 🚀</h1>
@@ -22,7 +22,9 @@
   <a href="https://github.com/jessicalemosgomes">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jessicalemosgomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicalemosgomes&layout=compact&langs_count=7&theme=radical"/>
-</div><br>
+</div>
+ 
+<br><br>
   
   
   ## 🌐Technologies:
@@ -35,5 +37,7 @@
   <img align="center" alt="alan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="alan-Sp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="alan-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ 
+<br><br>
 
 
