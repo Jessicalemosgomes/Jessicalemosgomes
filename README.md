@@ -4,7 +4,7 @@
 <h1 align="center">Hello, World 🚀</h1>
 
 - 😄 Pronouns: she/her.
-- 🔭 I'm a Full Stack Developer!
+- 🔭 Full Stack Developer!
 - ⚡ Interests: React, TypeScript, Java, SpringBoot and SQL.
 - 💜 I love learning new things!
 - 💬 Ask me about music, literature, film and, of course, technologies.
